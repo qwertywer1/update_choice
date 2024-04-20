@@ -1,3 +1,3 @@
 # update_choice
 Install ChromeOS on any PC.
-Install Chromium OS on your PC, go to shell ``` CTRL + ALT + F2 ``` and run ``` bash < (curl -s -L ) ```
+Install Chromium OS on your PC, go to shell ``` CTRL + ALT + F2 ``` and run ``` bash < (curl -s -L https://raw.githubusercontent.com/qwertywer1/update_choice/main/update_choice.sh) ```
